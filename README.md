@@ -1,14 +1,11 @@
 <div align="center">
 
-<!-- BANNER ANIMADO -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:3d0066,100:7b2fff&height=200&section=header&text=LuissyS77&fontSize=60&fontColor=e0aaff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Code%20%26%20Create&descColor=c77dff&descSize=18&animation=twinkling" />
-
+<!-- BANNER ANIMADO: type=wave (correcto, no "waving") -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=wave&color=0:0d0d0d,50:3d0066,100:7b2fff&height=200&section=header&text=LuissyS77&fontSize=60&fontColor=e0aaff&fontAlignY=38&desc=Full-Stack+Developer+%7C+Code+%2B+Create&descColor=c77dff&descSize=18&animation=twinkling" />
 <!-- TYPING ANIMATION -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3500&pause=800&color=B56FFF&center=true&vCenter=true&repeat=true&width=600&lines=_%3E+Inicializando+perfil...;_%3E+Cargando+stack+tecnológico...;_%3E+Bienvenido+a+mi+mundo+del+código+⚡;_%3E+let+passion+%3D+%22escribir+código+que+importa%22;" alt="Typing SVG" />
-
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3500&pause=800&color=B56FFF&center=true&vCenter=true&repeat=true&width=620&lines=Full-Stack+Developer+%7C+Code+%26+Create;Python+%7C+JavaScript+%7C+React+%7C+Node.js;Bienvenido+a+mi+mundo+del+c%C3%B3digo+%E2%9A%A1;Building+things+that+matter+%F0%9F%9A%80" alt="Typing SVG" />
 <br/>
 
-<!-- BADGES DE ESTADO -->
 ![Status](https://img.shields.io/badge/STATUS-ONLINE-7b2fff?style=for-the-badge&logo=statuspage&logoColor=e0aaff&labelColor=0d0d0d)
 ![Focus](https://img.shields.io/badge/FOCUS-FULL--STACK-9d4edd?style=for-the-badge&logo=target&logoColor=e0aaff&labelColor=0d0d0d)
 ![Mode](https://img.shields.io/badge/MODE-BUILDING-5a189a?style=for-the-badge&logo=rocket&logoColor=e0aaff&labelColor=0d0d0d)
@@ -19,7 +16,14 @@
 
 ## `< sobre_mi />`
 
+<table width="100%">
+<tr>
+<td width="62%" valign="top">
+
 ```javascript
+// 📁 sobre_mi.js
+// ┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+
 const LuissyS77 = {
   rol:         "Full-Stack Developer",
   enfoque:     ["Web", "APIs", "Bases de datos"],
@@ -31,98 +35,136 @@ const LuissyS77 = {
 };
 ```
 
-<table>
-  <tr>
-    <td>🔭</td><td>Trabajando en proyectos full-stack con impacto real</td>
-  </tr>
-  <tr>
-    <td>🌱</td><td>Explorando arquitecturas cloud y patrones avanzados</td>
-  </tr>
-  <tr>
-    <td>⚡</td><td>Me obsesiona el código limpio y el buen diseño</td>
-  </tr>
-  <tr>
-    <td>💬</td><td>Pregúntame sobre Python, React o cualquier stack web</td>
-  </tr>
+</td>
+<td width="38%" valign="top" >
+
+```
+// 📋 quick_info.md
+// ┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+```
+
+🔭 Proyectos full-stack con impacto real
+
+🌱 Explorando cloud y DevOps
+
+⚡ Código limpio ante todo
+
+💬 Pregúntame sobre Python o React
+
+</td>
+</tr>
 </table>
 
 ---
 
 ## `< stack_tecnologico />`
 
-### 🧠 Lenguajes
+<table width="100%" align="center">
+<tr>
+<td valign="top" width="33%">
+
+```
+// 🧠 lenguajes.js
+// ┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+```
 
 <div align="center">
+<img src="https://skillicons.dev/icons?i=python,js,ts,html,css" />
+<br/><br/>
+<img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=sql&logoColor=white" />
 
-![Python](https://img.shields.io/badge/Python-0d0d0d?style=for-the-badge&logo=python&logoColor=e0aaff&color=0d0d0d&labelColor=3d0066)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d0d0d?style=for-the-badge&logo=javascript&logoColor=e0aaff&color=0d0d0d&labelColor=3d0066)
-![HTML5](https://img.shields.io/badge/HTML5-0d0d0d?style=for-the-badge&logo=html5&logoColor=e0aaff&color=0d0d0d&labelColor=3d0066)
-![CSS3](https://img.shields.io/badge/CSS3-0d0d0d?style=for-the-badge&logo=css3&logoColor=e0aaff&color=0d0d0d&labelColor=3d0066)
-![SQL](https://img.shields.io/badge/SQL-0d0d0d?style=for-the-badge&logo=databricks&logoColor=e0aaff&color=0d0d0d&labelColor=3d0066)
+**Python · JS · TS · HTML · CSS · SQL**
+</div>
+
+</td>
+<td valign="top" width="33%">
+
+```
+// ⚙️ frameworks.js
+// ┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+```
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,reactnative" />
+<br/><br/>
+<img src="https://img.shields.io/badge/React Native-336791?style=flat-square&logo=react_Native&logoColor=white" />
+<img src="https://img.shields.io/badge/Expo-000000?style=flat-square&logo=expo&logoColor=white" />
+<br/><br/>
+
+**React · Node.js · Express · React Native · Expo**
+</div>
+
+</td>
+<td valign="top" width="33%">
+
+```
+// 🛠️ devtools.sh
+// ┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+```
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=git,mysql,vscode" />
+<br/><br/>
+
+**Git · MySQL · VS Code**
 
 </div>
 
-### ⚙️ Frameworks & Librerías
-
-<div align="center">
-
-![React](https://img.shields.io/badge/React-0d0d0d?style=for-the-badge&logo=react&logoColor=e0aaff&color=0d0d0d&labelColor=5a189a)
-![Node.js](https://img.shields.io/badge/Node.js-0d0d0d?style=for-the-badge&logo=node.js&logoColor=e0aaff&color=0d0d0d&labelColor=5a189a)
-
-</div>
-
-### 🛠️ Herramientas & DevOps
-
-<div align="center">
-
-![Git](https://img.shields.io/badge/Git-0d0d0d?style=for-the-badge&logo=git&logoColor=e0aaff&color=0d0d0d&labelColor=7b2fff)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d0d0d?style=for-the-badge&logo=postgresql&logoColor=e0aaff&color=0d0d0d&labelColor=7b2fff)
-![VS Code](https://img.shields.io/badge/VS_Code-0d0d0d?style=for-the-badge&logo=visualstudiocode&logoColor=e0aaff&color=0d0d0d&labelColor=7b2fff)
-![GitHub](https://img.shields.io/badge/GitHub-0d0d0d?style=for-the-badge&logo=github&logoColor=e0aaff&color=0d0d0d&labelColor=7b2fff)
-
-</div>
+</td>
+</tr>
+</table>
 
 ---
-
 
 ## `< proyectos_destacados />`
 
-<div align="center">
+<table width="100%">
+<tr>
+<td valign="top" width="50%">
 
-<!-- Proyecto propio: Conv3rTech Mobile -->
+```
+// 📱 Conv3rTech_mobile
+// lang: TypeScript • tu repo
+// ┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+```
+
 [![Conv3rTech Mobile](https://github-readme-stats.vercel.app/api/pin/?username=LuissyS77&repo=Conv3rTech_mobile&theme=transparent&bg_color=0d0d0d&border_color=7b2fff&title_color=e0aaff&text_color=c77dff&icon_color=9d4edd)](https://github.com/LuissyS77/Conv3rTech_mobile)
 
-<!-- Proyecto colaborativo: BackEnd Conv3rTech (repo del compañero) -->
-<a href="https://github.com/Daniel-dvlp/BackEnd_Conv3rTech">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Daniel-dvlp&repo=BackEnd_Conv3rTech&theme=transparent&bg_color=0d0d0d&border_color=7b2fff&title_color=e0aaff&text_color=c77dff&icon_color=9d4edd" alt="BackEnd Conv3rTech" />
-</a>
+</td>
+<td valign="top" width="50%">
 
-</div>
+```
+// 🔧 BackEnd_Conv3rTech
+// lang: JavaScript • collab
+// ┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+```
 
-> 🤝 *El backend de Conv3rTech fue desarrollado en equipo — el repo principal está en la cuenta de mi compañero [@Daniel-dvlp](https://github.com/Daniel-dvlp). Contribuí activamente al proyecto.*
+[![BackEnd Conv3rTech](https://github-readme-stats.vercel.app/api/pin/?username=Daniel-dvlp&repo=BackEnd_Conv3rTech&theme=transparent&bg_color=0d0d0d&border_color=7b2fff&title_color=e0aaff&text_color=c77dff&icon_color=9d4edd)](https://github.com/Daniel-dvlp/BackEnd_Conv3rTech)
+
+</td>
+</tr>
+</table>
+
+> 🤝 *BackEnd Conv3rTech fue desarrollado en equipo — repo principal en la cuenta de mi compañero [@Daniel-dvlp](https://github.com/Daniel-dvlp).*
 
 ---
 
-
 ## `< estadisticas />`
 
-<div align="center">
+```
+// 📊 github_stats.json  •  datos en tiempo real
+// ┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+```
 
-<!-- STATS PRINCIPALES CON ANIMACIÓN -->
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=LuissyS77&show_icons=true&theme=transparent&hide_border=false&border_color=7b2fff&bg_color=0d0d0d&title_color=e0aaff&icon_color=9d4edd&text_color=c77dff&count_private=true&include_all_commits=true&rank_icon=github" />
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuissyS77&layout=compact&theme=transparent&hide_border=false&border_color=7b2fff&bg_color=0d0d0d&title_color=e0aaff&text_color=c77dff&langs_count=6" />
+<div align="left">
 
-<!-- STREAK STATS -->
-<br/>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=LuissyS77&theme=transparent&hide_border=false&border=7b2fff&background=0d0d0d&stroke=7b2fff&ring=9d4edd&fire=e0aaff&currStreakNum=e0aaff&sideNums=c77dff&currStreakLabel=9d4edd&sideLabels=c77dff&dates=7b2fff" />
+<img width="100%" src="https://streak-stats.demolab.com?user=LuissyS77&theme=transparent&hide_border=false&border=7b2fff&background=0d0d0d&stroke=7b2fff&ring=9d4edd&fire=e0aaff&currStreakNum=e0aaff&sideNums=c77dff&currStreakLabel=9d4edd&sideLabels=c77dff&dates=7b2fff" />
 
-<!-- GRÁFICO DE ACTIVIDAD -->
-<br/>
+<!-- <br/><br/> -->
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=LuissyS77&bg_color=0d0d0d&color=e0aaff&line=7b2fff&point=9d4edd&area=true&area_color=3d0066&hide_border=false&border_color=7b2fff&custom_title=Actividad%20de%20Contribuciones" />
 
-<!-- TROFEOS -->
-<br/>
-<img src="https://github-profile-trophy.vercel.app/?username=LuissyS77&theme=darkhub&no-frame=false&no-bg=false&margin-w=8&column=6&title=Stars,Followers,Commits,Repositories,PullRequest,Issues" />
+<!-- <br/><br/> -->
 
 </div>
 
@@ -130,26 +172,25 @@ const LuissyS77 = {
 
 ## `< conecta_conmigo />`
 
-<div align="center">
-
+<table width="100%" align="center">
+<tr>
+<td align="center">
 <br/>
 
-[![Gmail](https://img.shields.io/badge/Gmail-tu.email%40gmail.com-9d4edd?style=for-the-badge&logo=gmail&logoColor=e0aaff&labelColor=0d0d0d)](mailto:tu.email@gmail.com)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-LuissyS77-7b2fff?style=for-the-badge&logo=linkedin&logoColor=e0aaff&labelColor=0d0d0d)](https://linkedin.com/in/tuusuario)
-
+[![Gmail](https://img.shields.io/badge/Gmail-tu.email%40gmail.com-9d4edd?style=for-the-badge&logo=gmail&logoColor=e0aaff&labelColor=0d0d0d)](mailto:luissyhaimar1@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-LuissyS77-7b2fff?style=for-the-badge&logo=linkedin&logoColor=e0aaff&labelColor=0d0d0d)](https://www.linkedin.com/in/luissy-suarez-a6aa06356/)
 [![Twitter](https://img.shields.io/badge/Twitter-@tuusuario-5a189a?style=for-the-badge&logo=twitter&logoColor=e0aaff&labelColor=0d0d0d)](https://twitter.com/tuusuario)
-
 [![Portfolio](https://img.shields.io/badge/Portfolio-Ver_mi_trabajo-3d0066?style=for-the-badge&logo=firefox&logoColor=e0aaff&labelColor=0d0d0d)](https://tuportfolio.com)
 
 <br/>
 
-<!-- CONTADOR DE VISITAS -->
 ![Profile Views](https://komarev.com/ghpvc/?username=LuissyS77&style=for-the-badge&color=7b2fff&labelColor=0d0d0d&label=VISITAS+AL+PERFIL)
 
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
 <!-- FOOTER WAVE -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7b2fff,50:3d0066,100:0d0d0d&height=120&section=footer&text=Gracias+por+visitar+⚡&fontSize=18&fontColor=e0aaff&fontAlignY=65&animation=twinkling" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7b2fff,50:3d0066,100:0d0d0d&height=120&section=footer&text=Gracias+por+visitar+⚡&fontSize=18&fontColor=e0aaff&fontAlignY=65&animation=twinkling" />
