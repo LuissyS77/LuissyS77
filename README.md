@@ -177,8 +177,8 @@ const LuissyS77 = {
 <td align="center">
 <br/>
 
-[![Gmail](https://img.shields.io/badge/Gmail-tu.email%40gmail.com-9d4edd?style=for-the-badge&logo=gmail&logoColor=e0aaff&labelColor=0d0d0d)](mailto:luissyhaimar1@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-LuissyS77-7b2fff?style=for-the-badge&logo=linkedin&logoColor=e0aaff&labelColor=0d0d0d)](https://www.linkedin.com/in/luissy-suarez-a6aa06356/)
+[![Gmail](https://img.shields.io/badge/Gmail-luissyhaimar1@gmail.com-9d4edd?style=for-the-badge&logo=gmail&logoColor=e0aaff&labelColor=0d0d0d)](mailto:luissyhaimar1@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-LuissySuarez-7b2fff?style=for-the-badge&logo=linkedin&logoColor=e0aaff&labelColor=0d0d0d)](https://www.linkedin.com/in/luissy-suarez-a6aa06356/)
 [![Twitter](https://img.shields.io/badge/Twitter-@tuusuario-5a189a?style=for-the-badge&logo=twitter&logoColor=e0aaff&labelColor=0d0d0d)](https://twitter.com/tuusuario)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Ver_mi_trabajo-3d0066?style=for-the-badge&logo=firefox&logoColor=e0aaff&labelColor=0d0d0d)](https://tuportfolio.com)
 
