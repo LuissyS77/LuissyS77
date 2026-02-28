@@ -87,7 +87,7 @@ const LuissyS77 = {
 <div align="center">
 <img src="https://skillicons.dev/icons?i=react,nodejs,express,reactnative" />
 <br/><br/>
-<img src="https://img.shields.io/badge/React Native-336791?style=flat-square&logo=react_Native&logoColor=white" />
+<img src="https://img.shields.io/badge/React Native-white?style=flat-square&logo=react&logoColor=336791" />
 <img src="https://img.shields.io/badge/Expo-000000?style=flat-square&logo=expo&logoColor=white" />
 <br/><br/>
 
