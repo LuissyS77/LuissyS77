@@ -1,7 +1,5 @@
 <div align="center">
 
-<!-- BANNER ANIMADO: type=wave (correcto, no "waving") -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=wave&color=0:0d0d0d,50:3d0066,100:7b2fff&height=200&section=header&text=LuissyS77&fontSize=60&fontColor=e0aaff&fontAlignY=38&desc=Full-Stack+Developer+%7C+Code+%2B+Create&descColor=c77dff&descSize=18&animation=twinkling" />
 <!-- TYPING ANIMATION -->
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3500&pause=800&color=B56FFF&center=true&vCenter=true&repeat=true&width=620&lines=Full-Stack+Developer+%7C+Code+%26+Create;Python+%7C+JavaScript+%7C+React+%7C+Node.js;Bienvenido+a+mi+mundo+del+c%C3%B3digo+%E2%9A%A1;Building+things+that+matter+%F0%9F%9A%80" alt="Typing SVG" />
 <br/>
