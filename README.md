@@ -15,7 +15,6 @@ Construyendo soluciones web con impacto real.
 - 🔭 Trabajando en proyectos full-stack (web + APIs + bases de datos)
 - 🌱 Aprendiendo cloud architecture y DevOps
 - ⚡ Código limpio ante todo
-- 💬 Pregúntame sobre Python o React
 
 ---
 
